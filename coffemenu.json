@@ -4,49 +4,49 @@
       "name": "Ice Coffe Dolce",
       "description": "Dua shot espresso dengan susu kental manis dan susu segar.",
       "image": "https://www.kitchentreaty.com/wp-content/uploads/2014/03/Cinnamon-Dolce-Iced-Coffee.jpg",
-      "price": 2.5
+      "price": 25000
     },
     {
       "id": 2,
       "name": "Hot Piccolo",
       "description": "Kopi dengan sedikit susu (rasa kopi strong).",
       "image": "https://tastylicious.com/wp-content/uploads/2022/12/piccolo-latte-art-in-clear-glass-on-black-saucer-beside-muffin-on-wooden-table.jpg",
-      "price": 1.0
+      "price": 10000
     },
     {
       "id": 3,
       "name": "Iced Palm Sugar Latte",
       "description": "Dua shot espresso dengan perpaduan manisnya gula aren dan susu segar.",
       "image": "https://flash-coffee.com/th-eng/wp-content/uploads/sites/23/2022/09/ICED_MELAKA_LATTE-1-600x368.jpg",
-      "price": 2.0
+      "price": 20000
     },
     {
       "id": 4,
       "name": "Iced Almond Latte",
       "description": "Minuman kopi dengan perpaduan rasa dan aroma gurih kacang almond.",
       "image": "https://thelittlestcrumb.com/wp-content/uploads/iced-almond-milk-latte-featured-image-1-1024x1024.jpg",
-      "price": 2.5
+      "price": 25000
     },
     {
       "id": 5,
       "name": "Iced Caramel Macchiato",
       "description": "Perpaduan antara kopi, susu segar, dan rasa caramel yang creamy.",
       "image": "https://www.readyseteat.com/sites/g/files/qyyrlu501/files/uploadedImages/img_9611_25311.jpg",
-      "price": 2.0
+      "price": 20000
     },
     {
       "id": 6,
       "name": "Hot Long Black",
       "description": "Dua shot espresso dengan air panas tanpa gula.",
       "image": "https://www.foodiesfeed.com/wp-content/uploads/2017/07/cup-of-black-coffee.jpg",
-      "price": 1.5
+      "price": 15000
     },
     {
       "id": 7,
       "name": "Hot Mocha",
       "description": "Satu shot espresso dengan cokelat dan susu steam.",
       "image": "https://www.swansalford.co.uk/wp-content/uploads/sites/15/2015/08/specialty-coffee-cappuccino-latte-hot-chocolate-mocha.jpg",
-      "price": 1.5
+      "price": 15000
     },
     {
       "id": 8,
@@ -60,13 +60,13 @@
       "name": "Iced Shaken Creamy Latte",
       "description": "Perpaduan kopi susu yang legit dan manis di shake bersamaan dengan signature ingredients.",
       "image": "https://www.yummymummykitchen.com/wp-content/uploads/2023/05/Brown-Sugar-Espresso-Heroes-3.jpg",
-      "price": 2.0
+      "price": 20000
     },
     {
       "id": 10,
       "name": "Hot Cappucino",
       "description": "Dua shot espresso dengan susu steam berlapis foam diatasnya tanpa gula.",
       "image": "https://thumbs.dreamstime.com/b/hot-cappuccino-white-cup-saucer-silver-spoon-177868825.jpg",
-      "price": 1.5
+      "price": 15000
     }
   ]
